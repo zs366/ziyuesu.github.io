@@ -1,1 +1,7 @@
-# Ziyue Su's Personal Website
+# Personal Website
+
+Name: Ziyue Su
+
+School: Cornell University
+
+NetID: zs366
